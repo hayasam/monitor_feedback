@@ -161,7 +161,7 @@
 		<dependency>
 			<groupId>commons-fileupload</groupId>
 			<artifactId>commons-fileupload</artifactId>
-			<version>1.3.2</version>
+			<version>1.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>junit</groupId>
@@ -224,7 +224,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>tomcat-catalina</artifactId>
-			<version>9.0.0.M11</version>
+			<version>9.0.106</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
@@ -266,7 +266,7 @@
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>tomcat-catalina-ha</artifactId>
-			<version>9.0.0.M11</version>
+			<version>9.0.106</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
